@@ -123,6 +123,6 @@ function shoot() {
 
 </body>
 </html>
-<head>
-<meta name="google-site-verification" content="Isfl7FSVQKsoikXZxUbeTv6jBCYbg84X4Npx61W70dM" />
 </head>
+
+
